@@ -10,13 +10,12 @@ I have lots of hobbies.
 
 ## Hobby List
 ---
-
-  * Homebrewer
-  * Pythonista
-  * Food Science(My wife was not happy when I started popping grains. Hint: They don't all pop.)
-  * A wide range of musical instruments from 6 string guitar to the mountain dulcimer
-  * Gaming
-  * Kayaking - admittedly, I have not done this in quite a while
+- Homebrewer
+- Pythonista
+- Food Science(My wife was not happy when I started popping grains. Hint: They don't all pop.)
+- A wide range of musical instruments from 6 string guitar to the mountain dulcimer
+- Gaming
+- Kayaking - admittedly, I have not done this in quite a while
 
 
 
