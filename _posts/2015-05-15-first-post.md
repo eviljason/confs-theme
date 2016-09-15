@@ -1,13 +1,6 @@
 ---
-title:  "My First Post"
-categories: sample
+title:  "hello there"
 image: feat-img.jpg
 ---
 
-Hi there. This will be your first blog post&mdash;I hope you're excited! To get started, give this post a new title by replacing "My First Post" with your post's title. 
-
-You can change the post's author name in the `_config.yml` file, or add an `author` variable in the front matter block. 
-
-To change the post image, replace the image name with your new image. If you don't want to use an image in this post, delete the image variable in the front matter.
-
-Have fun blogging!
+Hello everyone!  I am trying out jekyll and github pages hosting without having a copy of ruby or jekyll on my local computer.  The only issue I have found thus far into it is the ability to change images is a bit of a pain.  Once I find a plce to store my images for free, this may be a fun little experiment.  
