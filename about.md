@@ -5,9 +5,7 @@ permalink: /about/
 
 I am a middle aged dad of 2 beautiful girls.  
 I live in the Nashville area and work in the IT field. 
-
 I have ADD.   
-
 I have lots of hobbies.   
 
 
