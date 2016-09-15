@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: jason-lite
+email: lowgrav@icloud.com
+description: jason only lighter and crisper
+baseurl: "/jason-lite"
+
+twitter_username: mellowgnomebeer
+avatar: "https://pbs.twimg.com/profile_images/449655782833782785/OrDnwCQ8.png" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "jason" # Set default author name
+      categories: "personal"
       layout: "post"
       comments: true
   -
