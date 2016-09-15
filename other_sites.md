@@ -6,6 +6,6 @@ permalink: /other_sites/
 This is a list of my other places on the web:   
 
 
-family blog: [Nelms Family]('http://www.nelmsfamily.org')   
-beer blog:   [low grav]('http://www.lowgrav.me')
+family blog: [nelms family](http://www.nelmsfamily.org)   
+beer blog:   [low grav](http://www.lowgrav.me)
 
