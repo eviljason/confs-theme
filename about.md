@@ -9,6 +9,7 @@ I have ADD.
 I have lots of hobbies.
 
 ## Hobby List
+-------------
 
   * Homebrewer
   * Pythonista
