@@ -18,4 +18,6 @@ I have lots of hobbies.
   * Gaming
   * Kayaking - admittedly, I have not done this in quite a while
 
+
+
 This blog is a reflection of my life, my hobbies and the people I love.
