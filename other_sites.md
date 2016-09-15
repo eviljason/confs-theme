@@ -1,5 +1,5 @@
 ---
-title: Other Sites
+title: other sites
 permalink: /other_sites/
 ---
 
